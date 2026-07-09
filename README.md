@@ -2,7 +2,8 @@
 
 I am passionate about building cross-platform mobile applications and establishing solid computational thinking and problem-solving foundations for future developers.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.amna.aboualhaj?igsh=OWJvempmcHM1a2Z3)
+<!-- Social Media Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-amna-naji-aboualhaj) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.amna.aboualhaj?igsh=OWJvempmcHM1a2Z3)
 
 ---
 
@@ -13,8 +14,8 @@ I am passionate about building cross-platform mobile applications and establishi
 ### 🛠️ Tech Stack & Skills
 
 * **Mobile Development:** Flutter & Dart
+* **Core Programming:** Java, C++, Python & Problem Solving
 * **Front-End Technologies:** HTML, CSS, JavaScript
-* **Core Programming:** Java & Problem Solving
 * **Instruction & Training:** ICT, ICDL, and Programming Foundations
 
 </td>
