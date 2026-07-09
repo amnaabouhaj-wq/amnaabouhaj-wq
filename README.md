@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Amna Aboualhaj**, a Computer Engineer, Flutter & Dart Specialist, and Technical Programming Instructor.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Amna Aboualhaj**, a Computer Engineer, Flutter & Dart Specialist, and Technical Programming Instructor. 
 
 I am passionate about building cross-platform mobile applications and establishing solid computational thinking and problem-solving foundations for future developers.
 
@@ -13,8 +13,9 @@ I am passionate about building cross-platform mobile applications and establishi
 
 ### 🛠️ Tech Stack & Skills
 
-* **Mobile Development:** Flutter & Dart
-* **Core Programming:** Java, C++, Python & Problem Solving
+* **Mobile Development:** Flutter, Dart, State Management & REST APIs
+* **Core Programming:** Java, C++, Python, Data Structures & Algorithms
+* **Databases & Engineering:** SQL, Relational Database Design
 * **Front-End Technologies:** HTML, CSS, JavaScript
 * **Instruction & Training:** ICT, ICDL, and Programming Foundations
 
@@ -33,13 +34,22 @@ I am passionate about building cross-platform mobile applications and establishi
 
 ---
 
-### 📊 GitHub Interactive Stats
+### ⚡ Interactive Showcases (Click to expand)
 
-<p align="center">
-  <!-- عداد زوار الحساب الذكي والمضمون -->
-  <img src="https://komarev.com/badgecounter/toggle=visitors&username=amnaabouhaj-wq&color=blue&style=flat" alt="Visitors Counter" />
-  <br><br>
-  
-  <!-- بطاقة المساهمات والإحصاءات البديلة والمستقرة جداً -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnaabouhaj-wq&theme=black-ice" alt="Amna's GitHub Streak" height="190px"/>
-</p>
+<details>
+<summary>📂 <b>My Mobile Development Journey (Flutter & Dart)</b></summary>
+<br>
+Building clean UI, optimizing state management, and creating seamless multi-platform experiences. Check out my repositories below to see my latest applications!
+</details>
+
+<details>
+<summary>🎓 <b>Teaching & Mentorship Philosophy</b></summary>
+<br>
+I believe in teaching programming from scratch, focusing entirely on building core algorithmic thinking and logical problem-solving skills rather than just memorizing syntax.
+</details>
+
+<details>
+<summary>💻 <b>Academic & Professional Tooling</b></summary>
+<br>
+Daily driving <b>Android Studio</b>, <b>VS Code</b>, and <b>GitHub</b> for version control and collaborating on engineering projects.
+</details>
