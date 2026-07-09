@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Amna Aboualhaj**, a Computer Engineer, Flutter & Dart Specialist, and Technical Programming Instructor. 
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Amna Aboualhaj**, a Computer Engineer, Flutter & Dart Specialist, and Technical Programming Instructor.
 
 I am passionate about building cross-platform mobile applications and establishing solid computational thinking and problem-solving foundations for future developers.
 
@@ -36,9 +36,10 @@ I am passionate about building cross-platform mobile applications and establishi
 ### 📊 GitHub Interactive Stats
 
 <p align="center">
-  <!-- GitHub Overall Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amnaabouhaj-wq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Amna's GitHub Stats" height="190px"/>
+  <!-- عداد زوار الحساب الذكي والمضمون -->
+  <img src="https://komarev.com/badgecounter/toggle=visitors&username=amnaabouhaj-wq&color=blue&style=flat" alt="Visitors Counter" />
+  <br><br>
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaabouhaj-wq&layout=compact&theme=radical&hide_langs_with_zero=true" alt="Top Languages" height="190px"/>
+  <!-- بطاقة المساهمات والإحصاءات البديلة والمستقرة جداً -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnaabouhaj-wq&theme=black-ice" alt="Amna's GitHub Streak" height="190px"/>
 </p>
