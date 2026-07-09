@@ -2,8 +2,8 @@
 
 I am passionate about building cross-platform mobile applications and establishing solid computational thinking and problem-solving foundations for future developers.
 
-<!-- Social Media Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-amna-naji-aboualhaj) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.amna.aboualhaj?igsh=OWJvempmcHM1a2Z3)
+<!-- Social Media & Location Links -->
+[![Location](https://img.shields.io/badge/Location-Palestine-009639?style=for-the-badge&logo=map&logoColor=white)](https://maps.google.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-amna-naji-aboualhaj) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.amna.aboualhaj?igsh=OWJvempmcHM1a2Z3)
 
 ---
 
