@@ -36,9 +36,9 @@ I am passionate about building cross-platform mobile applications and establishi
 ### 📊 GitHub Interactive Stats
 
 <p align="center">
-  <!-- كرت الإحصائيات العام - استبدلي amna-aboualhaj باسم المستخدم الفعلي الخاص بكِ على غيت هاب إن كان مختلفاً -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amna-aboualhaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Amna's GitHub Stats" height="190px"/>
+  <!-- GitHub Overall Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amnaabouhaj-wq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Amna's GitHub Stats" height="190px"/>
   
-  <!-- كرت اللغات الأكثر استخداماً -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-aboualhaj&layout=compact&theme=radical&hide_langs_with_zero=true" alt="Top Languages" height="190px"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaabouhaj-wq&layout=compact&theme=radical&hide_langs_with_zero=true" alt="Top Languages" height="190px"/>
 </p>
